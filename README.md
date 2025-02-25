@@ -34,9 +34,6 @@ pip install scipy
 pip install scikit-learn
 ```
 
-### 7. **OS Module** (For file and directory management)  
-*(Included by default in Python, no installation required.)*
-
 ---
 
 ## **Install All Packages at Once**
